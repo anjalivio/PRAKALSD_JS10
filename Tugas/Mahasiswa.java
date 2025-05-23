@@ -16,5 +16,10 @@ public class Mahasiswa {
     public void tampilkanData(){
         System.out.println(nim + " - " + nama + " - " + prodi + " - " + kelas);
     }
+
+    public void tampilInfo() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'tampilInfo'");
+    }
 }
 

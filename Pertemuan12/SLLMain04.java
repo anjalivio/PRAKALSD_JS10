@@ -1,4 +1,4 @@
-package Tugas.Pertemuan12;
+package Pertemuan12;
 import java.util.Scanner;
 
 public class SLLMain04 {

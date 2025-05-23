@@ -1,4 +1,4 @@
-package Tugas.Pertemuan12;
+package Pertemuan12;
 
 public class Mahasiswa04 {
     String nim, nama, kelas;
